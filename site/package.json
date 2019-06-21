@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "description": "Site we built",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "gatsby": "^2.10.0",
+    "gatsby-theme-livestream": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
